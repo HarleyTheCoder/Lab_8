@@ -29,7 +29,6 @@ public class StudentInfo {
 			students[i].setHometown(hometowns[tempNum]);
 			students[i].setFavoriteFood(favoriteFoods[tempNum]);
 			students[i].setAge(ages[i]);
-			tempNum++;
 		}
 		//Get student num
 		System.out.print("Welcome to our Java class. Which student would you like to " +
